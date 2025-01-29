@@ -1,5 +1,6 @@
 # CofaktoryCarbonTracker
 Cofakortory Carbon Emissions Monitoring System 🌍☕
+
 A fictional information system for tracking and reducing carbon emissions across 5 coffee factory branches in Egypt.
 
 📌 Project Overview
